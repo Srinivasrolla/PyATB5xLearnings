@@ -46,7 +46,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.FizzBuzz.executor": "Run",
+    "Python.Left_Triangle_Star_Pattern.executor": "Run",
     "Python.Right_Triangle_Star_Pattern.executor": "Run",
+    "Python.remove_duplicates.executor": "Run",
+    "Python.sort_dict_values.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Srinivasa Rao/PycharmProjects/PyATB5xLearnings"
@@ -89,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731922187925</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="srinivas">
+      <option name="closed" value="true" />
+      <created>1732511021068</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732511021068</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
